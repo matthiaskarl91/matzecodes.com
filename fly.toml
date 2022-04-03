@@ -1,4 +1,4 @@
-app = "matzecodes-com-9399"
+app = "matzecodes"
 kill_signal = "SIGINT"
 kill_timeout = 5
 processes = [ ]
